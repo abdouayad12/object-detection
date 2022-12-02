@@ -1,2 +1,1 @@
-print("fichier modifié par manou")
-
+print("test")
